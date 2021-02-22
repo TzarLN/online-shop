@@ -36,9 +36,11 @@
 .collection-item .collection-footer .name {
   width: 90%;
   margin-bottom: 15px;
+  font-size: 1.3em;
 }
 
 .collection-item .collection-footer .price {
   width: 10%;
+  font-size: 1.3em;
 }
 /*# sourceMappingURL=collection-item.styles.css.map */
